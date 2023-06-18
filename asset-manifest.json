@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Iwai/static/css/main.3da41808.css",
+    "main.js": "/Iwai/static/js/main.18af2149.js",
+    "static/js/787.a526e8cd.chunk.js": "/Iwai/static/js/787.a526e8cd.chunk.js",
+    "index.html": "/Iwai/index.html",
+    "main.3da41808.css.map": "/Iwai/static/css/main.3da41808.css.map",
+    "main.18af2149.js.map": "/Iwai/static/js/main.18af2149.js.map",
+    "787.a526e8cd.chunk.js.map": "/Iwai/static/js/787.a526e8cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3da41808.css",
+    "static/js/main.18af2149.js"
+  ]
+}
